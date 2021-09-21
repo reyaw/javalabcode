@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/code/1_1_PythonConversions/lab-code/1-1-pythonconversions-lab-code.iml" filepath="$PROJECT_DIR$/code/1_1_PythonConversions/lab-code/1-1-pythonconversions-lab-code.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code/1_1_PythonConversions/1_1_PythonConversions.iml" filepath="$PROJECT_DIR$/code/1_1_PythonConversions/1_1_PythonConversions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code/2_1_SimpleClass/lab-code/2-1-simpleclass-lab-code.iml" filepath="$PROJECT_DIR$/code/2_1_SimpleClass/lab-code/2-1-simpleclass-lab-code.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code/2_2_Methods/lab-code/2-2-methods-lab-code.iml" filepath="$PROJECT_DIR$/code/2_2_Methods/lab-code/2-2-methods-lab-code.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code/2_1_SimpleClass/2_1_SimpleClass.iml" filepath="$PROJECT_DIR$/code/2_1_SimpleClass/2_1_SimpleClass.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code/2_2_Methods/2_2_Methods.iml" filepath="$PROJECT_DIR$/code/2_2_Methods/2_2_Methods.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code/3_1_LanguageStatements/lab-code/3-1-languagestatements-lab-code.iml" filepath="$PROJECT_DIR$/code/3_1_LanguageStatements/lab-code/3-1-languagestatements-lab-code.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code/3_2_Looping/lab-code/3-2-looping-lab-code.iml" filepath="$PROJECT_DIR$/code/3_2_Looping/lab-code/3-2-looping-lab-code.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code/3_3_Strings/lab-code/3-3-strings-lab-code.iml" filepath="$PROJECT_DIR$/code/3_3_Strings/lab-code/3-3-strings-lab-code.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code/3_4_StringBuilders/lab-code/3-4-stringbuilders-lab-code.iml" filepath="$PROJECT_DIR$/code/3_4_StringBuilders/lab-code/3-4-stringbuilders-lab-code.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code/3_1_LanguageStatements/3_1_LanguageStatements.iml" filepath="$PROJECT_DIR$/code/3_1_LanguageStatements/3_1_LanguageStatements.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code/3_2_Looping/3_2_Looping.iml" filepath="$PROJECT_DIR$/code/3_2_Looping/3_2_Looping.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code/3_3_Strings/3_3_Strings.iml" filepath="$PROJECT_DIR$/code/3_3_Strings/3_3_Strings.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code/3_4_StringBuilders/3_4_StringBuilders.iml" filepath="$PROJECT_DIR$/code/3_4_StringBuilders/3_4_StringBuilders.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code/4_ArraysArrayListsHashMaps/lab-code/4-array-arraylists-hashmaps-lab-code.iml" filepath="$PROJECT_DIR$/code/4_ArraysArrayListsHashMaps/lab-code/4-array-arraylists-hashmaps-lab-code.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code/4_ArraysArrayListsHashMaps/4_ArraysArrayListsHashMaps.iml" filepath="$PROJECT_DIR$/code/4_ArraysArrayListsHashMaps/4_ArraysArrayListsHashMaps.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code/5_1_SubClasses/lab-code/5-1-subclasses-lab-code.iml" filepath="$PROJECT_DIR$/code/5_1_SubClasses/lab-code/5-1-subclasses-lab-code.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code/5_1_SubClasses/5_1_SubClasses.iml" filepath="$PROJECT_DIR$/code/5_1_SubClasses/5_1_SubClasses.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code/Enumerations/lab-code/enumerations-lab-code.iml" filepath="$PROJECT_DIR$/code/Enumerations/lab-code/enumerations-lab-code.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code/Exceptions/lab-code/exceptions-lab-code.iml" filepath="$PROJECT_DIR$/code/Exceptions/lab-code/exceptions-lab-code.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code/Polymorphism/lab-code/polymorphism-lab-code.iml" filepath="$PROJECT_DIR$/code/Polymorphism/lab-code/polymorphism-lab-code.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code/PrimitiveWrappers/lab-code/primitivewrappers-lab-code.iml" filepath="$PROJECT_DIR$/code/PrimitiveWrappers/lab-code/primitivewrappers-lab-code.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code/solution-parent.iml" filepath="$PROJECT_DIR$/code/solution-parent.iml" />
+    </modules>
+  </component>
+</project>

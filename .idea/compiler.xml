@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="3-3-strings-lab-code" />
+        <module name="primitivewrappers-lab-code" />
+        <module name="enumerations-lab-code" />
+        <module name="3-4-stringbuilders-lab-code" />
+        <module name="1-1-pythonconversions-lab-code" />
+        <module name="5-1-subclasses-lab-code" />
+        <module name="2-2-methods-lab-code" />
+        <module name="polymorphism-lab-code" />
+        <module name="4-array-arraylists-hashmaps-lab-code" />
+        <module name="exceptions-lab-code" />
+        <module name="2-1-simpleclass-lab-code" />
+        <module name="3-2-looping-lab-code" />
+        <module name="3-1-languagestatements-lab-code" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="1-1-pythonconversions-lab-code" target="18" />
+      <module name="2-1-simpleclass-lab-code" target="18" />
+      <module name="2-2-methods-lab-code" target="18" />
+      <module name="3-1-languagestatements-lab-code" target="18" />
+      <module name="3-2-looping-lab-code" target="18" />
+      <module name="3-3-strings-lab-code" target="18" />
+      <module name="3-4-stringbuilders-lab-code" target="18" />
+      <module name="4-1-array-lab-code" target="1.5" />
+      <module name="4-2-dynamicarrays-lab-code" target="1.5" />
+      <module name="4-array-arraylists-hashmaps-lab-code" target="18" />
+      <module name="5-1-subclasses-lab-code" target="18" />
+      <module name="enumerations-lab-code" target="18" />
+      <module name="exceptions-lab-code" target="18" />
+      <module name="polymorphism-lab-code" target="18" />
+      <module name="primitivewrappers-lab-code" target="18" />
+      <module name="solution-parent" target="18" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

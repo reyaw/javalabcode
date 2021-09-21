@@ -1,0 +1,10 @@
+carList = ["BMW", "VOLVO","FORD","WV","CHEVY","NISSAN"]
+carList.sort()
+
+print(carList)
+
+
+****************************************
+
+Output:
+['BMW', 'CHEVY', 'FORD', 'NISSAN', 'VOLVO', 'WV']
