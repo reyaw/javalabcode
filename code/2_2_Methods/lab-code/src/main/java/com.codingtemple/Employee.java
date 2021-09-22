@@ -12,4 +12,44 @@ class Employee {
       //LAB TASK:  Set the values you provided to initialize the two variables above.
 
    //LAB TASK:  Generate Getters & Setters for name and salary
+
+    private int salary;
+    private String name;
+    private String description;
+
+    public Employee(int newSalary, String newName) {
+        salary = newSalary;
+        name = newName;
+    }
+
+    public Employee(String newName){
+        name = newName;
+    }
+    public Employee(int newSalary){
+        salary = newSalary;
+    }
+
+    public Employee(){}
+
+    public void printEmployeeData(){
+        System.out.println("Name: " + getName());
+        System.out.println("Salary: " + getSalary());
+        System.out.println("Description: " + getDescription());
+    }
+
+    public void setName(String newName) {
+        name = newName;
+    }
+    public void setSalary(int newSalary) {
+        salary = newSalary;
+    }
+    public void setDescription(String newDescription) {description = newDescription; }
+
+    public String getName() {
+        return name;
+    }
+    public int getSalary() {
+        return salary;
+    }
+    public String getDescription() { return description; }
 }
