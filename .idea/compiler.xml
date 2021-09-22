@@ -24,7 +24,7 @@
     <bytecodeTargetLevel>
       <module name="1-1-pythonconversions-lab-code" target="17" />
       <module name="2-1-simpleclass-lab-code" target="17" />
-      <module name="2-2-methods-lab-code" target="18" />
+      <module name="2-2-methods-lab-code" target="17" />
       <module name="3-1-languagestatements-lab-code" target="18" />
       <module name="3-2-looping-lab-code" target="18" />
       <module name="3-3-strings-lab-code" target="18" />

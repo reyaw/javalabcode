@@ -2,10 +2,6 @@ package com.codingtemple;
 
 class Main {
     public static void main(String[] args) {
-        System.out.println("Hello World");
-    }
-
-    public static void main(String[] args) {
         Employee employee1 = new Employee("Jane Prentiss");
         Employee employee2 = new Employee("Jan Kilbride");
 
@@ -14,6 +10,9 @@ class Main {
 
         employee1.setDescription("An alarming woman with a penchant for insects.");
         employee2.setDescription("Some kind of Norwegian businessman.");
+
+        employee1.printEmployeeData();
+        employee2.printEmployeeData();
     }
    /*
    LAB TASK:  Create main method
