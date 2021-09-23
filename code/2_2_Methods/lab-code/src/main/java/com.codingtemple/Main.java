@@ -9,7 +9,7 @@ class Main {
         employee2.setSalary(87000);
 
         employee1.setDescription("An alarming woman with a penchant for insects.");
-        employee2.setDescription("Some kind of Norwegian businessman.");
+        employee2.setDescription("A poor, poor astronaut.");
 
         employee1.printEmployeeData();
         employee2.printEmployeeData();
