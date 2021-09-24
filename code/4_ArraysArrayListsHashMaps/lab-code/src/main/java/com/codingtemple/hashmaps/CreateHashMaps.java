@@ -4,7 +4,7 @@ import java.util.HashMap;
 //LAB TASK:  In the Driver main
 
 //LAB HINT:  Remember Access Modifiers
-class CreateHashMaps {
+public class CreateHashMaps {
    private HashMap<String, String> hashMap;
 
    private String[] states = {"Alabama", "Alaska", "Arizona", "Arkansas", "California", "Colorado", "Connecticut", "Delaware", "Florida", "Georgia", "Hawaii", "Idaho", "Illinois", "Indiana", "Iowa", "Kansas", "Kentucky", "Louisiana", "Maine", "Maryland", "Massachusetts", "Michigan", "Minnesota", "Mississippi", "Missouri", "Montana", "Nebraska", "Nevada", "New Hampshire", "New Jersey", "New Mexico", "New York", "North Carolina", "North Dakota", "Ohio", "Oklahoma", "Oregon", "Pennsylvania", "Rhode Island", "South Carolina", "South Dakota", "Tennessee", "Texas", "Utah", "Vermont", "Virginia", "Washington", "West Virginia", "Wisconsin", "Wyoming"};
@@ -20,7 +20,9 @@ class CreateHashMaps {
    //LAB HINT:  hashMap.put(key, value);
    private HashMap<String, String> buildHashMap() {
       HashMap<String, String> hashMap = new HashMap<String, String>();
-
+      for(int i = 0; i < states.length; i++){
+         hashMap.put(states[i], abbreviations[i]);
+      }
       return hashMap;
    }
 
